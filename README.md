@@ -13,7 +13,7 @@ Then Paste this script to your Executor.
 ```bash
   loadstring(game:HttpGet("https://raw.githubusercontent.com/SharKWareV/SharkHub/main/obf_fNbIGT7X8di2KP8UT7KiI36XMRy0f8FP1qSc9Gqy4407asTkam7baVv9Tdim4w8I.lua"))()
 ```
-And after that press the run button to run the script.
+And after that press the run or execute button to run the script.
 ## Appendix
 
 Please note that this script is still under development, And uses a key system.
